@@ -1,5 +1,4 @@
 package com.matheus.api.model;
-
 import lombok.Data;
 
 @Data
